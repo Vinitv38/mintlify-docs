@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "Ice Staking",
   "colors": {
     "primary": "#25ABE2",
@@ -30,7 +30,7 @@
   },
   "logo": {
     "light": "logo/Frame.png",
-    "dark": "logo/Frame.png"
+    "dark": "logo/man.png"
   },
   "navbar": {
     "primary": {
@@ -42,8 +42,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/icestaking_",
-      "github": "https://github.com/ice-staking",
-      "linkedin": "https://linkedin.com/"
+      "github": "https://github.com/ice-staking"
     }
   }
 }
